@@ -1,0 +1,8 @@
+default menu.c32
+timeout 300
+prompt 0
+label 1
+menu label ^1) Install CentOS7
+menu default
+kernel vmlinuz
+append initrd=initrd.img method=http://192.168.1.200/CentOS7 ks=http://192.168.1.200/CentOS7/CentOS7.cfg
