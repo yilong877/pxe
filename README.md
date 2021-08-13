@@ -12,4 +12,4 @@
 
 ### 其它
 
-整体安装部署过程请参考该链接 blog.lancediary.com，后面考虑如何将 Windows 也整合到一起
+整体安装部署过程请参考该链接 blog.lancediary.com，后面考虑如何将 Windows 也整合到一起，并写成一个自动部署的脚本
